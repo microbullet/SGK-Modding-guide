@@ -1,4 +1,4 @@
-Usager
+English.txt
 =====
 
 .. _installation:
