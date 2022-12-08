@@ -1,4 +1,4 @@
-elcome to the SGK Ultimate guide 
+Welcome to the SGK Ultimate guide 
 ===================================
 
 **Shotgun King, The final Checkmate** is a game created by french indie developer PUNKCAKE Dèliceux
