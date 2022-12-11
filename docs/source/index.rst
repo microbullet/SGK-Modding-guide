@@ -16,8 +16,10 @@ chess.
    :hidden:
    :caption: Modding
 
-   /modding/
-   /intro/getting-started-with-sphinx
-   /intro/getting-started-with-mkdocs
-   /intro/import-guide
-   /choosing-a-site
+   /modding/english.txt
+   /modding/title.png
+   /modding/intro.png
+   /modding/cards.png
+   /modding/gfx.png
+   /modding/script.lua
+   /modding/Modes
