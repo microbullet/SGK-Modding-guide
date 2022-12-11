@@ -9,3 +9,15 @@ chess.
 .. note::
 
    This project is under active development.
+
+
+.. toctree::
+   :maxdepth: 2
+   :hidden:
+   :caption: Modding
+
+   /modding/
+   /intro/getting-started-with-sphinx
+   /intro/getting-started-with-mkdocs
+   /intro/import-guide
+   /choosing-a-site
